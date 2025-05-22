@@ -41,8 +41,8 @@ This toolkit provides three main components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/readability.git
-   cd readability
+   git clone https://github.com/yourusername/document-readability-analyzer.git
+   cd document-readability-analyzer
    ```
 
 2. Install dependencies:

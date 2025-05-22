@@ -14,7 +14,7 @@ setup(
     description="A toolkit for analyzing document readability using traditional metrics and neural approaches",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/readability",
+    url="https://github.com/yourusername/document-readability-analyzer",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
